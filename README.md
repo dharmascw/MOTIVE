@@ -5,12 +5,12 @@
 3. 내 컴퓨터 root 디렉토리(C:\ 또는 D:\)에 Zip 파일을 푼다.
   
    1) C:\MOTIVE_Ecosystem
-	- 4.0 (R user library)
-	- Projects-master (Program)
-  ※ 향후 갱신된 프로그램은 https://github.com/hubscw/MOTIVE에서 최근 프로그램 파일(예, Projects-master_20220919.zip)을 나의 시스템 공간(예,        C:/MOTIVE_System/)에 다운받아 Projects-master를 설치하고 System_Environment.txt에서 환경을 재설정한다.
+      - 4.0 (R user library)
+      - Projects-master (Program)
+      ※ 향후 갱신된 프로그램은 https://github.com/hubscw/MOTIVE에서 최근 프로그램 파일(예, Projects-master_20220919.zip)을 나의 시스템 공간(예,        C:/MOTIVE_System/)에 다운받아 Projects-master를 설치하고 System_Environment.txt에서 환경을 재설정한다.
   
    2) C:\MOTIVE_projects
-	- proj_test (Project sample)
+       - proj_test (Project sample)
 
 4. 내 컴퓨터의 제어판 시스템의 고급시스템설정에서 환경변수를 설정하다.
    1) R_LIBS_USER 변수를 추가하고 C:\MOTIVE_Ecosystem\4.0를 설정한다.
