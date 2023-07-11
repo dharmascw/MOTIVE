@@ -3,7 +3,7 @@
 1. 내 컴퓨터에 R(R4.0.5)프로그램을 다운받아 설치한다.
 2. 내 컴퓨터에 JAVA프로그램을 다운받아 설치한다.
 3. 내 컴퓨터에 MOTIVE_Ecosystem.zip과 MOTIVE_projects.zip을 다운받아 설치한다.
-4. 내 컴퓨터 root 디렉토리(C:\ 또는 D:\)에 Zip 파일을 푼다.
+4. 내 컴퓨터 root 디렉토리(C:/ 또는 D:/)에 Zip 파일을 푼다.
   
    1) C:\MOTIVE_Ecosystem
       - 4.0 (R user library)
@@ -13,6 +13,9 @@
   
    2) C:\MOTIVE_projects
        - proj_test (Project sample)
+              - (Dir)Species_Assessment
+              - (Dir)Habitat_Assessment
+              - (File)Project_Information.csv
 
 4. 내 컴퓨터의 제어판 시스템의 고급시스템설정에서 환경변수를 설정하다.
    1) R_LIBS_USER 변수를 추가하고 C:/MOTIVE_Ecosystem/4.0를 설정한다.
