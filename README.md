@@ -15,9 +15,9 @@
        - proj_test (Project sample)
 
 4. 내 컴퓨터의 제어판 시스템의 고급시스템설정에서 환경변수를 설정하다.
-   1) R_LIBS_USER 변수를 추가하고 C:\MOTIVE_Ecosystem\4.0를 설정한다.
+   1) R_LIBS_USER 변수를 추가하고 C:/MOTIVE_Ecosystem/4.0를 설정한다.
 	(R 사용자 library를 설정한다)
-   2) R_USER 변수를 추가하고 C:\MOTIVE_projects를 설정한다.
+   2) R_USER 변수를 추가하고 C:/MOTIVE_projects를 설정한다.
 	(R 사용자 디렉토리를 설정한다)
    3) Path에 C:/Program Files/R/R-4.0.5/x64/bin (R 실행파일 디렉토리)을 추가한다.
 
